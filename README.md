@@ -1,16 +1,13 @@
-## Hi there 👋
+# 个人介绍
 
-<!--
-**longwencai/longwencai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello，大家好，我是龙汶材
+
+## 欢迎来到我的频道
+
+本人就读于中南民族大学，是一名2025级计算机学院计算机类的新生，具备良好的逻辑思维和基本的动手操作能力，并且擅长分析解决身边的问题和困惑。除此之外，我还擅长团队合作，希望可以为未来的GEEK团队贡献一份自己的绵薄之力。技术上来说，我还有一定的编程基础但是还不够熟练，但是我会尽快补齐我的不足。未来我对后端开发感兴趣，希望自己能在该领域上有所成就，在技术岗位上快速成长。
+
+
+
+## 
